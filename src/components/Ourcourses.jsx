@@ -1,8 +1,8 @@
 import React from 'react'
-import software_development from ".././assets/images/webp/software-development.png";
-import data_analytics from ".././assets/images/webp/data-analiys.png";
+import software_development from ".././assets/images/webp/software-development.webp";
+import data_analytics from ".././assets/images/webp/data-analiys.webp";
 import { RightArrow } from './common/Icons';
-import header_elipse from "../assets/images/webp/header-elipse.png";
+import header_elipse from "../assets/images/webp/header-elipse.webp";
 const cardData = [
     {
       title: "Software Development",
